@@ -5,3 +5,5 @@ Git tracks changes of files.
 Creating a new branch is quick and simple.
 creating dev.
 bug修复完毕
+开发1完毕
+开发2完毕
